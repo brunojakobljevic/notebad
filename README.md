@@ -1,3 +1,4 @@
+# Notebad
 Cross platform text editor similair to Notepad. 
 
 It has all of the main functionalities of notepad(cut, copy, paste, undo, redo, save as, open, new window...).
