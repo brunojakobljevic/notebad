@@ -3,6 +3,8 @@
 #include <QProxyStyle>
 #include <QStyleOptionMenuItem>
 
+// custom style to remove icon space from dropdown windows
+
 class CustomStyle : public QProxyStyle{
 public:
     using QProxyStyle::QProxyStyle;
